@@ -34,11 +34,11 @@ auth_ts	uid
 Формат данных:
 
 user_id	revenue	testgroup
-1	0	b
-2	0	a
-3	0	a
-4	0	b
-5	0	b
+   1	0	      b
+   2	0	      a
+   3	0	      a
+   4	0	      b
+   5	0	      b
  
 
 ## Задание 3
